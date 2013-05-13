@@ -36,7 +36,7 @@ Use CCTBackButtonActionHelper
     }
 ```
 
-- In the view controller, implement `cct_navigationBar:willPopItem:item` and show alert view there:
+- In the view controller, implement `cct_navigationBar:willPopItem:` and show alert view there:
 
 ```
     - (void)cct_navigationBar:(UINavigationBar *)navigationBar willPopItem:(UINavigationItem *)item {
