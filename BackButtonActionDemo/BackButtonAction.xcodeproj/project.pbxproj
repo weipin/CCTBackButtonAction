@@ -39,6 +39,7 @@
 		16A98606173FF7AD00CD6F98 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
 		16A98607173FF7AD00CD6F98 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
 		16A98608173FF7AD00CD6F98 /* MyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyViewController.xib; sourceTree = "<group>"; };
+		16C62651174134F500BE30C3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		16E78CCC1740E9DE008D8F9D /* MyNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyNavigationController.h; sourceTree = "<group>"; };
 		16E78CCD1740E9DE008D8F9D /* MyNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyNavigationController.m; sourceTree = "<group>"; };
 		16E78CCF1740EB60008D8F9D /* CCTBackButtonActionHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCTBackButtonActionHelper.h; path = ../CCTBackButtonActionHelper.h; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 		16A985DD173FF66700CD6F98 = {
 			isa = PBXGroup;
 			children = (
+				16C62651174134F500BE30C3 /* README.md */,
 				16E78CCF1740EB60008D8F9D /* CCTBackButtonActionHelper.h */,
 				16E78CD01740EB60008D8F9D /* CCTBackButtonActionHelper.m */,
 				16A985EF173FF66700CD6F98 /* BackButtonAction */,

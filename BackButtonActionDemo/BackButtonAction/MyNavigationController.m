@@ -14,8 +14,8 @@
 
 - (BOOL)navigationBar:(UINavigationBar *)navigationBar shouldPopItem:(UINavigationItem *)item {
     BOOL should = [[CCTBackButtonActionHelper sharedInstance] navigationController:self
-                                                               navigationBar:navigationBar
-                                                               shouldPopItem:item];
+                                                                     navigationBar:navigationBar
+                                                                     shouldPopItem:item];
     if (!should) {
         return NO;
     }
