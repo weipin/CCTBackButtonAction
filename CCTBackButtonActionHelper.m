@@ -6,8 +6,6 @@
 //  Copyright (c) 2013 Weipin Xia. All rights reserved.
 //
 
-#import <objc/runtime.h>
-
 #import "CCTBackButtonActionHelper.h"
 
 @implementation CCTBackButtonActionHelper
